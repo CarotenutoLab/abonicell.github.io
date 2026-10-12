@@ -8,6 +8,8 @@ permalink: /experience/
 
 ## Professional Experience
 
+### Academic Positions
+
 - *03/2025 – present*
   **Postdoctoral Researcher in Bioinformatics** - Telethon Institute of Genetics and Medicine, Pozzuoli (NA), Italy
 - *07/2022 – 02/2025*
