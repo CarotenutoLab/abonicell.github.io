@@ -9,7 +9,7 @@ permalink: /grants/
 ## Awarded
 
 - *2023 · £18,835.16*
-  **QR RCIF – Equipment Grant Scheme 2023** - University of Lancashire. Purchase of a Savant SpeedVac SPD1030.
+  **QR RCIF – Equipment Grant Scheme 2023** - University of Lancashire.
 - *2023 · £7,500.00 · Co-I*
   **Undergraduate Research Internship Programme 2023 (UURIP75182, UURIP75183)** - University of Lancashire. Projects: “Metabolomics on maggots for PMI estimation” and “Metabolomics on muscle tissue for PMI estimation”.
 - *2019 · £900.00*
