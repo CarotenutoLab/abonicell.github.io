@@ -13,7 +13,7 @@ permalink: /teaching/
 - *2024/25 – 2025/26*
   Applied Statistics (FMAI-203, module leader); Forensic Taphonomy (FMAI-201, contributor)
 - *2023/24*
-  Forensic Taphonomy (FMAI-201, contributor); Forensic Aspects of Trauma (FMAI-202, module leader); Applied Statistics (FMAI-203, module leader)
+  Applied Statistics (FMAI-203, module leader); Forensic Aspects of Trauma (FMAI-202, module leader); Forensic Taphonomy (FMAI-201, contributor)
 
 ### School of History, Classics and Archaeology, University of Edinburgh
 
