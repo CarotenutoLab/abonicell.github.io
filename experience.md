@@ -42,7 +42,7 @@ permalink: /experience/
 - *09/2013*
   **BA Archaeology** - University of Padua · First Class
 
-### Selected Training
+## Selected Training
 
 - *06/2025*
   **Spatial Transcriptomics Analysis** - Dept. of Electrical Engineering and IT, University of Naples “Federico II”
