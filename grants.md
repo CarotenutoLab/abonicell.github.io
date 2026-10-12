@@ -9,13 +9,13 @@ permalink: /grants/
 ## Awarded
 
 - *2023 · £18,835.16*
-  **QR RCIF – Equipment Grant Scheme 2023** - University of Lancashire.
+  **QR RCIF – Equipment Grant Scheme 2023** - University of Lancashire
 - *2023 · £7,500.00 · Co-I*
-  **Undergraduate Research Internship Programme 2023 (UURIP75182, UURIP75183)** - University of Lancashire. Projects: “Metabolomics on maggots for PMI estimation” and “Metabolomics on muscle tissue for PMI estimation”.
+  **Undergraduate Research Internship Programme 2023 (UURIP75182, UURIP75183)** - University of Lancashire. Projects: “Metabolomics on maggots for PMI estimation” and “Metabolomics on muscle tissue for PMI estimation”
 - *2019 · £900.00*
-  **MRC-funded bursary** - Hands-on Data Analysis for Metabolic Profiling, Imperial College London.
+  **MRC-funded bursary** - Hands-on Data Analysis for Metabolic Profiling, Imperial College London
 - *2016 · £14,296.00 / year*
-  **HCA Doctoral Scholarship** - University of Edinburgh.
+  **HCA Doctoral Scholarship** - University of Edinburgh
 
 ## Submitted
 
